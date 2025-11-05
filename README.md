@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Siddamsetti</h1>
-<h3 align="center">I’m a Full-Stack Developer driven by the goal of building AI-native SaaS ecosystems that automate workflows, optimize performance, and enhance user experience. I combine LLM integrations, distributed backend systems, and real-time data pipelines to create software that scales intelligently.</h3>
+<h3 align="center">I’m a Full-Stack Developer driven by the goal of building AI-native SaaS ecosystems that optimize performance, and enhance user experience. I combine LLM integrations, distributed backend systems, and real-time data pipelines to create software that scales intelligently.</h3>
 
 - 📫 How to reach me **vishnusiddamsetti@gmail.com**
 
