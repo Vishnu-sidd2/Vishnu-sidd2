@@ -64,7 +64,8 @@
 - 💼 Completed **Software Engineering Job Simulation** — *Accenture (Forage)*.
 
 ---
-
+- 📫 How to reach me **vishnusiddamsetti@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:vishnusiddamsetti@gmail.com" target="blank">
