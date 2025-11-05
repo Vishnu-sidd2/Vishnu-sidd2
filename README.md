@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Siddamsetti</h1>
-<h3 align="center">I’m a Full-Stack Developer driven by the goal of building AI-native SaaS ecosystems that optimize performance, and enhance user experience. I combine LLM integrations, distributed backend systems, and real-time data pipelines to create software that scales intelligently.</h3>
+<h3 align="center">I’m a Full-Stack Developer driven by the goal of building AI-native SaaS ecosystems that automate workflows, optimize performance, and enhance user experience. I combine LLM integrations, distributed backend systems, and real-time data pipelines to create software that scales intelligently.</h3>
 
 - 📫 How to reach me **vishnusiddamsetti@gmail.com**
 
@@ -50,5 +50,23 @@
     <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+#### 💬 [EmotiCare — AI Emotional Support Companion](https://emoti-caree.vercel.app/)
+> AI-powered web app for **mental health and emotional support** using real-time speech and sentiment analysis.
+
+**Tech Stack:** BERT • Deepgram • React.js • FastAPI • Node.js  
+⭐ **Highlights:** Voice analysis, emotion detection, and AI-driven conversational responses for 24/7 emotional support.
+
+#### 🧠 [TokenWise — Solana Token Intelligence Dashboard](https://github.com/Vishnu-sidd2/TokenWise-Solana_Dashboard)
+> Real-time **Solana token intelligence dashboard** featuring top holder tracking, live transaction feeds, and wallet analytics.
+
+**Tech Stack:** FastAPI • React.js • MongoDB • WebSockets  
+⭐ **Highlights:** Built a high-throughput data pipeline with caching and seeding to overcome RPC rate-limit issues, ensuring scalability and uptime.
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu-sidd2&show_icons=true&locale=en&layout=compact" alt="vishnu-sidd2" /></p>
