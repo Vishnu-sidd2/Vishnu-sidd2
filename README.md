@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Siddamsetti</h1>
 <h3 align="center">I’m a Full-Stack Developer driven by the goal of building AI-native SaaS ecosystems that automate workflows, optimize performance, and enhance user experience. I combine LLM integrations, distributed backend systems, and real-time data pipelines to create software that scales intelligently.</h3>
 
-- 📫 How to reach me **vishnusiddamsetti@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishnu-sidd2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-sidd2" height="30" width="40" /></a>
 </p>
@@ -69,4 +67,26 @@
 
 ---
 
+<h3 align="left">🌱 Currently Learning</h3>
+
+- 🧩 Going deep into **Distributed Systems** — focusing on scalability, fault tolerance, and system design patterns.  
+- 🤖 Exploring **AI frameworks and LLM orchestration tools** like LangChain, LangGraph, and Hugging Face Transformers.  
+- ⚙️ Enhancing my expertise in **Backend Development**, diving into microservices, async architecture, and advanced API design.
+
+---
+
+<h3 align="left">🏆 Achievements</h3>
+
+- 🥇 Solved **250+ DSA problems** across LeetCode and competitive programming platforms.  
+- 🚀 Ranked **#131 out of 30,879 participants (Top 0.5%)** in Codequezt #22 — Naukri Campus Challenge.  
+- 🧠 **Top 10 Finalist** — *Eureka 2025 Hackathon* for developing *CrewMind*, an AI Assistant for Manufacturing Workers.  
+- 🎓 Completed **GenAI Powered Data Analytics Job Simulation** — *Tata (Forage)*.  
+- 💼 Completed **Software Engineering Job Simulation** — *Accenture (Forage)*.
+
+- 📫**vishnusiddamsetti@gmail.com**
+
+<h3 align="left">Let's Connect:</h3>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu-sidd2&show_icons=true&locale=en&layout=compact" alt="vishnu-sidd2" /></p>
+
+
