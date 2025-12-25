@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Siddamsetti</h1>
-<h3 align="center">I’m a Full-Stack Developer with a strong focus on backend engineering, scalable architectures, and distributed systems. I love solving real backend challenges—concurrency, performance optimization, data pipelines, and system reliability—while also having solid frontend experience to build clean, modern, and responsive interfaces. I enjoy integrating AI into systems and building AI-powered products that are fast, intelligent, and production-ready.</h3>
+<h3 align="center">I’m a Full-Stack Developer with a strong focus on Full Stack engineering, scalable architectures, and distributed systems. I love solving real backend challenges—concurrency, performance optimization, data pipelines, and system reliability—while also having solid frontend experience to build clean, modern, and responsive interfaces. I enjoy integrating AI into systems and building AI-powered products that are fast, intelligent, and production-ready.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
